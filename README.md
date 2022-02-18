@@ -1,4 +1,4 @@
-# MPU6050
+# MPU6050 IMU
 
 Connecting Adafruit's MPU-6050 IMU module to Teensy 4.1: https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro
 
