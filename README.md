@@ -2,7 +2,7 @@
 
 Adafruit's MPU-6050 IMU module: https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro
 
-Circuit examples included as Fritzing (fzz) files and png image
+Circuit examples for Teensy 4.1 included as a Fritzing (fzz) file and png image
 
 This is an I2C serial communication device so you need to connect to the Arduino's I2C pins
 
